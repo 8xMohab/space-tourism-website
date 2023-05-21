@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/8xMohab/space-tourism-website)
-- Live Site URL: [Nitlfy](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://space-tourism-8xmohab.netlify.app)
 
 ## My process
 
